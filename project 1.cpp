@@ -1,7 +1,4 @@
-//Add student records (name, roll number, marks of 3 subjects).
-//Calculate average and grade.
-//Display all records.
-//Save/load from file
+
 #include <iostream>
 using namespace std;
 const int mstudent= 100;
@@ -62,4 +59,5 @@ displayStudent(students[i]);
 
     return 0;
 }
+
 
